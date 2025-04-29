@@ -67,6 +67,9 @@ const recipes = [
                     setExpandedIndex(index === expandedIndex ? null : index)
                   }
                 >
+                     {expandedIndex === index ? "Hide" : "Show"} Recipe
+                     </button>
+                     
         </div>
     )
     }
