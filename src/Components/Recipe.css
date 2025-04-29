@@ -7,6 +7,7 @@ body {
 
 .recipe-cont {
     display: grid;
+    padding: 14p 20px;
 }
 
 .recipe-card {
