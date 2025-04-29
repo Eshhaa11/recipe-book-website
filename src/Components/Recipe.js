@@ -25,4 +25,10 @@ const recipes = [
         ingredients: ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil", "Salt"],
         steps: ["Toast baguette", "Top with tomato mixture", "Drizzle oil, serve fresh"],
       },
+    {
+        title: "Mango Smoothie",
+    
+        ingredients: ["Mango", "Yogurt", "Milk", "Honey", "Ice"],
+        steps: ["Blend all ingredients until smooth", "Serve chilled"],
+      },
 ];
