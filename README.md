@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/image.png)
+
 # 🍽️ Recipe Book Website
 
 A beautiful **Recipe Book** built with React, allowing users to explore and view recipes, including ingredients and steps.
