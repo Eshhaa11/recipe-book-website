@@ -21,7 +21,7 @@ const recipes = [
     },
     {
         title: "Bruschetta",
-        image: "https://source.unsplash.com/300x200/?bruschetta",
+
         ingredients: ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil", "Salt"],
         steps: ["Toast baguette", "Top with tomato mixture", "Drizzle oil, serve fresh"],
       },
