@@ -33,7 +33,6 @@ const recipes = [
       },
       {
         title: "Chole Bhature",
-        image: "https://source.unsplash.com/300x200/?chole-bhature",
         ingredients: ["Chickpeas", "Onion", "Tomato", "Garam masala", "Flour", "Yogurt"],
         steps: [
           "Soak and boil chickpeas",
@@ -42,5 +41,5 @@ const recipes = [
           "Serve hot with chole",
         ],
       },
-      
+
 ];
