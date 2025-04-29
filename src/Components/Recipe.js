@@ -70,6 +70,13 @@ const recipes = [
                      {expandedIndex === index ? "Hide" : "Show"} Recipe
                      </button>
                      {expandedIndex === index && (
+              <div className="recipe-details">
+              <strong>Ingredients:</strong>
+              <ul>
+                {recipe.ingredients.map((item, i) => (
+                  <li key={i}>{item}</li>
+                ))}
+              </ul>
         </div>
     )
     }
