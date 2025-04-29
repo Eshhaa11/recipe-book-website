@@ -53,4 +53,6 @@ const recipes = [
       },
 ];
 
-    function Recipe
+    function Recipe() {
+        
+    }
