@@ -9,7 +9,7 @@ const recipes = [
     },
     {
         title: "Pancakes",
-        image: "https://source.unsplash.com/300x200/?pancakes",
+    
         ingredients: ["Flour", "Milk", "Eggs", "Sugar", "Baking powder"],
         steps: ["Mix ingredients", "Pour on pan", "Cook until golden"],
       },
