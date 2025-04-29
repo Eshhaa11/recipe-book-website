@@ -57,6 +57,8 @@ const recipes = [
         const [expandedIndex, setExpandedIndex] = useState(null);
 
     return (
-        
+        <div className="recipe-cont">
+            
+        </div>
     )
     }
