@@ -63,6 +63,10 @@ const recipes = [
                  <img src={recipe.image} alt={recipe.title} />    
                  <h3>{recipe.title}</h3>
                  <button
+                   onClick={() =>
+                    setExpandedIndex(index === expandedIndex ? null : index)
+                  }
+                >
         </div>
     )
     }
