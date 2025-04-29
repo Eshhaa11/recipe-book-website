@@ -41,5 +41,15 @@ const recipes = [
           "Serve hot with chole",
         ],
       },
+      {
+        title: "Masala Dosa",
+        image: "https://source.unsplash.com/300x200/?masala-dosa",
+        ingredients: ["Rice", "Urad dal", "Potatoes", "Onion", "Mustard seeds", "Curry leaves"],
+        steps: [
+          "Prepare dosa batter with rice and dal",
+          "Make potato filling with spices",
+          "Spread dosa, add filling, fold and serve",
+        ],
+      },
 
 ];
