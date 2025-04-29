@@ -54,5 +54,5 @@ const recipes = [
 ];
 
     function Recipe() {
-        
+        const [expandedIndex, setExpandedIndex] = useState(null);
     }
