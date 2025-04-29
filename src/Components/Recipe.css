@@ -8,6 +8,8 @@ body {
 .recipe-cont {
     display: grid;
     padding: 14p 20px;
+    max-width: 1280px;
+    margin: auto;
 }
 
 .recipe-card {
