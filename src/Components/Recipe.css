@@ -15,7 +15,13 @@ body {
 }
 
 .recipe-card {
-
+    background: #ffffff;
+    border: 1px solid #e0dcd5;
+    border-left: 8px solid #7d5a50;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    padding: 1.5rem;
+    transition: all 0.3s ease-in-out;
 }
 
 .recipe-card:hover {
