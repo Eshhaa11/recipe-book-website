@@ -59,7 +59,8 @@ const recipes = [
     return (
         <div className="recipe-cont">
              {recipes.map((recipe, index) => (
-             <div className="recipe-card" key={index}>    
+             <div className="recipe-card" key={index}>
+                 <img src={recipe.image} alt={recipe.title} />    
         </div>
     )
     }
