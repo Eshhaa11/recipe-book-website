@@ -58,7 +58,8 @@ const recipes = [
 
     return (
         <div className="recipe-cont">
-            
+             {recipes.map((recipe, index) => (
+                
         </div>
     )
     }
