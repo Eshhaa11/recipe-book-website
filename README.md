@@ -1,4 +1,4 @@
-![App Screenshot](src/assets/image.png)
+![App Screenshot](src/assets/Recipe.jpg)
 
 # 🍽️ Recipe Book Website
 
