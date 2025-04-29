@@ -18,5 +18,11 @@ const recipes = [
         image: "https://source.unsplash.com/300x200/?avocado-toast",
         ingredients: ["Bread", "Avocado", "Salt", "Lemon juice", "Chili flakes"],
         steps: ["Toast bread", "Mash avocado", "Season and spread"],
-    }
+    },
+    {
+        title: "Bruschetta",
+        image: "https://source.unsplash.com/300x200/?bruschetta",
+        ingredients: ["Baguette", "Tomatoes", "Garlic", "Basil", "Olive oil", "Salt"],
+        steps: ["Toast baguette", "Top with tomato mixture", "Drizzle oil, serve fresh"],
+      },
 ];
