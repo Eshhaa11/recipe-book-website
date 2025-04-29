@@ -20,7 +20,7 @@ body {
     border-left: 8px solid #7d5a50;
     border-radius: 10px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
-    padding: 1.5rem;
+    padding: 10px;
     transition: all 0.3s ease-in-out;
 }
 
