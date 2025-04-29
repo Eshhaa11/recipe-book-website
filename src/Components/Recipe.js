@@ -90,3 +90,5 @@ const recipes = [
     </div>
   );
 };
+
+export default Recipe;
