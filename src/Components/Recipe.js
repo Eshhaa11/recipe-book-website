@@ -15,7 +15,7 @@ const recipes = [
       },
     {
         title: "Avocado Toast",
-        image: "https://source.unsplash.com/300x200/?avocado-toast",
+        
         ingredients: ["Bread", "Avocado", "Salt", "Lemon juice", "Chili flakes"],
         steps: ["Toast bread", "Mash avocado", "Season and spread"],
     },
