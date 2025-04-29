@@ -1,12 +1,12 @@
 body {
     margin:  0;
-    font-family: 'Segoe UI'
+    font-family: 'Segoe UI';
     background-color: black;
     color: #c2c0c0;
 }
 
 .recipe-cont {
-
+    display: grid;
 }
 
 .recipe-card {
