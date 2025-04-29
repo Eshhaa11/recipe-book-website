@@ -77,6 +77,16 @@ const recipes = [
                   <li key={i}>{item}</li>
                 ))}
               </ul>
+              <strong>Steps:</strong>
+              <ol>
+                {recipe.steps.map((step, i) => (
+                  <li key={i}>{step}</li>
+                ))}
+              </ol>
+            </div>
+          )}
         </div>
-    )
-    }
+      ))}
+    </div>
+  );
+};
