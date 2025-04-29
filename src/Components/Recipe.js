@@ -31,4 +31,16 @@ const recipes = [
         ingredients: ["Mango", "Yogurt", "Milk", "Honey", "Ice"],
         steps: ["Blend all ingredients until smooth", "Serve chilled"],
       },
+      {
+        title: "Chole Bhature",
+        image: "https://source.unsplash.com/300x200/?chole-bhature",
+        ingredients: ["Chickpeas", "Onion", "Tomato", "Garam masala", "Flour", "Yogurt"],
+        steps: [
+          "Soak and boil chickpeas",
+          "Prepare spicy tomato-onion gravy",
+          "Mix dough and fry bhature",
+          "Serve hot with chole",
+        ],
+      },
+      
 ];
