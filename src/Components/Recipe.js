@@ -61,6 +61,7 @@ const recipes = [
              {recipes.map((recipe, index) => (
              <div className="recipe-card" key={index}>
                  <img src={recipe.image} alt={recipe.title} />    
+                 <h3>{recipe.title}</h3>
         </div>
     )
     }
